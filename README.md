@@ -1,9 +1,9 @@
 # Improving Spotify’s Algorithm
-## CSC-475 Project Proposal
-## William Foster
-## Department of Computer Science
-## Furman University
-## will.foster@furman.edu
+### CSC-475 Project Proposal
+### William Foster
+### Department of Computer Science
+### Furman University
+### will.foster@furman.edu
 ### **Background.** 
 Spotify, along with various music streaming platforms, often faces criticism for its
 seemingly uninspired song recommendation algorithms. Paradoxically, these algorithms are not
